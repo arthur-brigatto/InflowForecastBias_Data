@@ -1,0 +1,128 @@
+ NUM  NOME           SSIS  U.EXIS CLASSE
+ XXXX XXXXXXXXXXXX   XXXX     XX   XXXX
+    1 ANGRA 1           1     EX      1
+   13 ANGRA 2           1     EX     13
+  211 BAIXADA FLU       1     EX    211
+  256 CIDADE LIVRO      1     EX    256
+   97 CUBATAO           1     EX     97
+   12 CUIABA G CC       1     EX     12
+  153 DAIA              1     EX    153
+   65 DO ATLAN_CSA      1     EX     65
+  183 DO_ATLANTICO      1     EX    183
+  137 GNA I             1     EX    137
+  238 GNA II            1     EX    238
+  155 GOIANIA II        1     EX    155
+   63 IBIRITE           1     EX     63
+   54 JUIZ DE FORA      1     EX     54
+  245 KARKEY 013        1     EX    245
+  246 KARKEY 019        1     EX    246
+   15 LINHARES          1     EX     15
+  257 LINHARES LRC      1     EX    257
+  247 LINHARES PCS      1     EX    247
+  236 MARLIM AZUL       1     EX    236
+  110 N.PIRATINING      1     EX    110
+  171 NORTEFLU-1        1     EX    171
+  172 NORTEFLU-2        1     EX    172
+  173 NORTEFLU-3        1     EX    173
+  174 NORTEFLU-4        1     EX    174
+  229 ONCA PINTADA      1     EX    229
+  182 PALMEIRAS GO      1     EX    182
+  248 PAULINIA VER      1     EX    248
+   50 PIRAT.12 G        1     EX     50
+  249 PORSUD I          1     EX    249
+  250 PORSUD II         1     EX    250
+  251 POVOACAO 1        1     EX    251
+   62 SEROPEDICA        1     EX     62
+    4 ST.CRUZ 34        1     EX      4
+   86 ST.CRUZ NOVA      1     EX     86
+  146 STA VITORIA       1     EX    146
+  194 T. NORTE 2        1     EX    194
+   90 TERMOMACAE        1     EX     90
+   47 TERMORIO          1     EX     47
+   68 TRES LAGOAS       1     EX     68
+   49 VIANA             1     EX     49
+  253 VIANA 1           1     EX    253
+  334 W. ARJONA         1     EX    334
+  108 XAVANTES          1     EX    108
+   48 ARAUCARIA         2     EX     48
+   37 ARGENTINA 1       2     EX     37
+   71 ARGENTINA 1B      2     EX     71
+   38 ARGENTINA 2A      2     EX     38
+   39 ARGENTINA 2B      2     EX     39
+   40 ARGENTINA 2C      2     EX     40
+   59 ARGENTINA 2D      2     EX     59
+  254 B. BONITA I       2     EX    254
+  156 CANDIOTA 3        2     EX    156
+   64 CANOAS            2     EX     64
+  169 CISFRAMA          2     EX    169
+   28 FIGUEIRA          2     EX     28
+   26 J.LACERDA A1      2     EX     26
+   27 J.LACERDA A2      2     EX     27
+   25 J.LACERDA B       2     EX     25
+   24 J.LACERDA C       2     EX     24
+  107 PAMPA SUL         2     EX    107
+  149 SAO SEPE          2     EX    149
+  258 TROMBUDO          2     EX    258
+   35 URUGUAIANA        2     EX     35
+  164 APOENA            3     EX    164
+   52 CAMPINA GDE       3     EX     52
+  112 CURUMIM           3     EX    112
+  106 ERB CANDEIAS      3     EX    106
+   42 FORTALEZA         3     EX     42
+   53 GLOBAL I          3     EX     53
+   55 GLOBAL II         3     EX     55
+  166 GUARANI           3     EX    166
+   57 MARACANAU I       3     EX     57
+  167 P. PECEM I        3     EX    167
+  163 P. PECEM II       3     EX    163
+  224 P. SERGIPE I      3     EX    224
+  160 PAU FERRO I       3     EX    160
+   98 PERNAMBU_III      3     EX     98
+  144 PETROLINA         3     EX    144
+  259 PORTOCEM I        3     EX    259
+  151 POTIGUAR          3     EX    151
+  161 POTIGUAR III      3     EX    161
+  223 PROSPERI III      3     EX    223
+  241 PROSPERID II      3     EX    241
+  147 PROSPERIDADE      3     EX    147
+  170 SUAPE II          3     EX    170
+  221 SYKUE I           3     EX    221
+   43 TERMOBAHIA        3     EX     43
+  152 TERMOCABO         3     EX    152
+   58 TERMOCEARA        3     EX     58
+  159 TERMOMANAUS       3     EX    159
+   67 TERMONE           3     EX     67
+   69 TERMOPB           3     EX     69
+   96 TERMOPE           3     EX     96
+   83 VALE DO ACU       3     EX     83
+  201 APARECIDA         4     EX    201
+  260 AZULAO            4     EX    260
+  262 AZULAO II         4     EX    262
+  263 AZULAO IV         4     EX    263
+  322 BBF BALIZA        4     EX    322
+  323 BONFIM            4     EX    323
+  203 C. ROCHA          4     EX    203
+  324 CANTA             4     EX    324
+   73 GERAMAR I         4     EX     73
+   70 GERAMAR II        4     EX     70
+  325 HF S JOAQUIM      4     EX    325
+  326 JAGUATIRI II      4     EX    326
+  204 JARAQUI           4     EX    204
+  327 M.CRISTO SUC      4     EX    327
+  205 MANAUARA          4     EX    205
+  264 MANAUS I          4     EX    264
+  212 MARANHAO III      4     EX    212
+   36 MARANHAO IV       4     EX     36
+   21 MARANHAO V        4     EX     21
+  140 MAUA 3            4     EX    140
+   46 N.VENECIA 2       4     EX     46
+  240 NT BARCARENA      4     EX    240
+  228 O. CANOAS 1       4     EX    228
+  328 PALMAPLAN 2       4     EX    328
+  116 PARNAIBA IV       4     EX    116
+  239 PARNAIBA V        4     EX    239
+  329 PAU RAINHA        4     EX    329
+  207 PONTA NEGRA       4     EX    207
+  176 PORTO ITAQUI      4     EX    176
+  330 SANTA LUZ         4     EX    330
+  209 TAMBAQUI          4     EX    209
