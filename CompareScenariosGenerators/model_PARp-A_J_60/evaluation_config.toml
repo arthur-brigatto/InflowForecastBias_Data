@@ -1,0 +1,8 @@
+time_series_path = "C:\\Users\\brigatto\\Documents\\GitHub\\InflowForecastBias_Data\\CompareScenariosGenerators\\NIE.csv"
+num_steps_ahead = 24
+num_scenarios = 2000
+num_windows = 160
+fixed_forecast_window_size = false
+model_executable_path = "C:\\Users\\brigatto\\Documents\\GitHub\\InflowForecastBias_Data\\CompareScenariosGenerators\\model_PARp-A_J_60\\PARp-A.bat"
+model_name = "PARp-A_J_60"
+plot_all_scenarios_windows = false
