@@ -1,5 +1,3 @@
-using Pkg
-Pkg.activate(raw"C:\Users\brigatto\.julia\packages\CompareScenariosGenerators\7QoZK")
 using CompareScenariosGenerators
 
 # NW PARp
