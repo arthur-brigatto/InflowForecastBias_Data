@@ -2,7 +2,7 @@
 # Run  SARIMA #
 ###############
 
-using RCall, CSV, DataFrames, Dates, StatsBase, Random, TimeSeries, Query
+using RCall, CSV, DataFrames, Dates
 
 
 time_series_path = ARGS[1]
@@ -16,7 +16,6 @@ last_date = df[end,1]
 ts_names = names(df)[2:end]
 
 past_data = log.(Matrix(df[:,2:end]))
-past_data = past_data[end-12*30 + 1:end, :]
 
 R"require(forecast)"
 

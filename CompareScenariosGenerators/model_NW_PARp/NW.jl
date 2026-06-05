@@ -16,7 +16,7 @@ ts_names = names(df)[2:end]
 
 past_data = Matrix(df[:,2:end])
 
-path_NW = string("C:\\Users\\brigatto\\Documents\\GitHub\\PSCC_2024_Case_Study_Data\\CompareScenariosGenerators\\model_NW_PARp\\decks\\Parp\\",year(last_date + Month(1)),"_",lpad(month(last_date + Month(1)), 2, "0"))
+path_NW = string(raw"C:\Users\brigatto\Documents\GitHub\InflowForecastBias_Data\CompareScenariosGenerators\model_NW_PARp\decks\Parp\\",year(last_date + Month(1)),"_",lpad(month(last_date + Month(1)), 2, "0"))
 
 forecasts = Array{Float64}(undef,60 - month(last_date + Month(1)) + 1, size(past_data)[2], 2000)
 

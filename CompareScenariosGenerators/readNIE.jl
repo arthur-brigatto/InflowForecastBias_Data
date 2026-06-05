@@ -6,7 +6,7 @@ using DataFrames, CSV, Dates
 
 global NIE = zeros(1128,12)
 
-f = open(raw"\\wsl.localhost\Ubuntu\home\brigatto\PARp\2024_03\parp.dat", "r") 
+f = open(raw"C:\Users\brigatto\Documents\GitHub\InflowForecastBias_Data\CompareScenariosGenerators\parp.dat", "r") 
 
 lines = readlines(f)
 
@@ -41,8 +41,8 @@ NIE_SS[:,4] = sum(NIE[:,j] for j in 10:12)
 
 datas = collect(Date(1931,1,1):Month(1):Date(2024,12,1))
 df = DataFrame(hcat(datas, NIE), ["dates", "Sudeste", "Madeira", "TPires", "Itaipu", "Parana", "Paranapanema", "Sul", "Iguacu", "Nordeste", "Norte", "BMonte", "Man-AP"])
-CSV.write(raw"G:\Meu Drive\Doutorado\Desenvolvimento\5_ENA_Newave_Bias\GeraENA_Jun2022\NIE.csv", df_SS[1:1120,:])
+CSV.write(raw"C:\Users\brigatto\Documents\GitHub\InflowForecastBias_Data\CompareScenariosGenerators\NIE.csv", df_SS[1:1125,:])
 
 datas = collect(Date(1931,1,1):Month(1):Date(2024,12,1))
 df_SS = DataFrame(hcat(datas, NIE_SS), ["dates", "SE", "S", "NE", "N"])
-CSV.write(raw"G:\Meu Drive\Doutorado\Desenvolvimento\5_ENA_Newave_Bias\\GeraENA_Dez2023\NIE_SS.csv", df_SS[1:1120,:])
+CSV.write(raw"C:\Users\brigatto\Documents\GitHub\InflowForecastBias_Data\CompareScenariosGenerators\NIE_SS.csv", df_SS[1:1125,:])

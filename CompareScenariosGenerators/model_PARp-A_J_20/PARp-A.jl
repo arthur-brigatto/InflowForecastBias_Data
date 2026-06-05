@@ -18,9 +18,9 @@ ts_names = names(df)[2:end]
 
 past_data = Matrix(df[end-J*12 + 1:end,2:end])
 
-par_models = Vector{PARpA}()
+par_models = Vector{PARp}()
 for i in 1:size(past_data)[2]
-    push!(par_models, PARpA(past_data[:,i], 12, 6; information_criteria = "aic"))
+    push!(par_models, PARp(past_data[:,i], 12, 6; information_criteria = "aic"))
     fit_par!(par_models[i])
 end
 
